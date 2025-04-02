@@ -15,6 +15,12 @@ _Team Name: Team Blue
 2. **Dataset 2:** [Dataset Name] - [Dataset Link]  
 3. **Dataset 3:** [Dataset Name] - [Dataset Link]  
 
+## Metrics
+
+- Safety
+- Walkability?
+- 
+
 ## Project Overview
 
 This repository contains our Jupyter notebooks which analyze different aspects of these neighborhoods to help us conclude what the best neighborhood is in Pittsburgh
