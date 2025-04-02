@@ -1,4 +1,4 @@
-**#CS-0010-Final_Project**
+**CS-0010-Final_Project**
 
 **Team Name:** Team Blue
 
