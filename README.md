@@ -7,19 +7,16 @@ _Team Name: Team Blue
 ## Team Members
 
 - Thomas Jones - taj82@pitt.edu  
-- [Member 2 Name] - [Member 2 Email]  
+- Conrad French - cpf35@pitt.edu 
 
 ## Description and Links to Datasets Used
 
 1. **Dataset 1:** Pittsburgh Police Arrest Data - https://data.wprdc.org/dataset/arrest-data  
-2. **Dataset 2:** [Dataset Name] - [Dataset Link]  
-3. **Dataset 3:** [Dataset Name] - [Dataset Link]  
-
-## Metrics
-
+2. **Dataset 2:** Parks - https://data.wprdc.org/dataset/parks1
+3. **Dataset 3:** Block Party - https://data.wprdc.org/dataset/public-works-block-party-summary
 - Safety
-- Walkability?
-- 
+- Greenspace
+- Fun
 
 ## Project Overview
 
