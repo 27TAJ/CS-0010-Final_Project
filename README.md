@@ -1,24 +1,20 @@
-**CS-0010-Final_Project**
+# CS-0010-Final_Project
 
-**Team Name:** Team Blue
+## Team Name
 
-**Team Members:**
+_Team Name: Team Blue 
 
-Thomas Jones - taj82@pitt.edu
-[Member 2 Name] - [Member 2 Email]
+## Team Members
 
-**Description and Links to Datasets Used:**
+- Thomas Jones - taj82@pitt.edu  
+- [Member 2 Name] - [Member 2 Email]  
 
-Dataset 1: Pittsburgh Police Arrest Data - https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
-Dataset 2: [Dataset Name] - [Dataset Link]
-Dataset 3: [Dataset Name] - [Dataset Link]
+## Description and Links to Datasets Used
 
-**Metrics:**
+1. **Dataset 1:** Pittsburgh Police Arrest Data - https://data.wprdc.org/dataset/arrest-data  
+2. **Dataset 2:** [Dataset Name] - [Dataset Link]  
+3. **Dataset 3:** [Dataset Name] - [Dataset Link]  
 
-Safety
+## Project Overview
 
-
-
-**Project Overview:**
-
-This repository countains
+This repository contains our Jupyter notebooks which analyze different aspects of these neighborhoods to help us conclude what the best neighborhood is in Pittsburgh
