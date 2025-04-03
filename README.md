@@ -12,12 +12,12 @@ _Team Name: Team Blue
 ## Description and Links to Datasets Used
 
 1. **Dataset 1:** Pittsburgh Police Arrest Data - https://data.wprdc.org/dataset/arrest-data  
-2. **Dataset 2:** Parks - https://data.wprdc.org/dataset/parks1
+2. **Dataset 2:** POGO Stations - https://data.wprdc.org/dataset/station-locations
 3. **Dataset 3:** Block Party - https://data.wprdc.org/dataset/public-works-block-party-summary
 - Safety
-- Greenspace
+- Bike Access
 - Fun
 
 ## Project Overview
 
-This repository contains our Jupyter notebooks which analyze different aspects of these neighborhoods to help us conclude what the best neighborhood is in Pittsburgh
+This repository contains our Jupyter notebooks which analyze different aspects of these neighborhoods to help us conclude what the best neighborhood is in Pittsburgh. We analyzed 3 main metrics, the amount of crime, the number of pogo stations, and the scheduled number of blocky partys in each neighborhood. We decided that the best neighorhood has to be safe, bikeable and have fun events. 
