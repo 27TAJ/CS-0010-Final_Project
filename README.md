@@ -3,11 +3,12 @@
 ## Team Name
 
 Team Name: Team Blue 
+Group: Group 13
 
 ## Team Members
 
-- Thomas Jones - taj82@pitt.edu  
-- Conrad French - cpf35@pitt.edu 
+- Thomas Jones - taj82@pitt.edu (Arrests.ipynb)
+- Conrad French - cpf35@pitt.edu (BlockParty.ipynb & Pogostations.ipynb)
 
 ## Description and Links to Datasets Used
 
