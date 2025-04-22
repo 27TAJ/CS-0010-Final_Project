@@ -2,7 +2,7 @@
 
 ## Team Name
 
-_Team Name: Team Blue 
+Team Name: Team Blue 
 
 ## Team Members
 
